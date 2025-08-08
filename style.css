@@ -93,4 +93,10 @@ body {
 .download-btn:hover {
   background-color: #aad8ff;
   color: #333;
+}.spline-container {
+  width: 400px;
+  height: 400px;
+  max-width: 90vw;
+  border-radius: 10px;
+  overflow: hidden;
 }
